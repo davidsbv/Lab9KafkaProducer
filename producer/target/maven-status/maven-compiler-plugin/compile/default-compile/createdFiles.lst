@@ -1,0 +1,8 @@
+com\caroffer\producer\model\CarOffer.class
+com\caroffer\producer\controller\OfferController.class
+com\caroffer\producer\controller\dto\CarOfferDTO.class
+com\caroffer\producer\controller\mapper\CarOfferMapperImpl.class
+com\caroffer\producer\controller\mapper\CarOfferMapper.class
+com\caroffer\producer\service\OfferServiceImpl.class
+com\caroffer\producer\service\OfferService.class
+com\caroffer\producer\OfferProducerApplication.class
